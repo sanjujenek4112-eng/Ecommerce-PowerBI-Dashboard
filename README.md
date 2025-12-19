@@ -11,7 +11,7 @@ The dashboard helps stakeholders understand:
 - Category-wise and state-wise performance
 - Customer purchasing behavior
 
----
+
 
 ##  Objective
 To build an interactive dashboard that enables data-driven decision-making by visualizing key e-commerce metrics.
